@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784813617229",
+    "project_id": "proyectoandroid-ed50e",
+    "storage_bucket": "proyectoandroid-ed50e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784813617229:android:b51b5f81ebd297c9906c04",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUluLVnsTqLYZnkzFNDUdfZblLcfC-5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
